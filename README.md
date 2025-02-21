@@ -3,7 +3,7 @@
 A hands-on journey through Computer Vision, featuring code, projects, and insights.  
 
 📌 **For more notes and details, check my Notion page:**  
-[🔗 Computer Vision Notes]([YOUR_NOTION_LINK_HERE](https://marsh-appendix-b41.notion.site/Computer-Vision-Course-197d0416fc978024a6aed5dce84d27f9))  
+[🔗 Computer Vision Notes](https://marsh-appendix-b41.notion.site/Computer-Vision-Course-197d0416fc978024a6aed5dce84d27f9)  
 
 ---
 
